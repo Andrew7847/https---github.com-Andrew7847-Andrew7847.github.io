@@ -56,11 +56,11 @@ import {
   
   const technologies = [
     {
-      name: "HTML 5",
+      name: "HTML5",
       icon: html,
     },
     {
-      name: "CSS 3",
+      name: "CSS3",
       icon: css,
     },
     {
@@ -68,19 +68,19 @@ import {
       icon: javascript,
     },
     {
-      name: "React JS",
+      name: "ReactJS",
       icon: reactjs,
     },
     {
-      name: "Tailwind CSS",
+      name: "TailwindCSS",
       icon: tailwind,
     },
     {
-      name: "Node JS",
+      name: "NodeJS",
       icon: nodejs,
     },
     {
-      name: "Three JS",
+      name: "ThreeJS",
       icon: threejs,
     },
     {
@@ -103,11 +103,26 @@ import {
   
   const experiences = [
     {
+      title: "Application Administrator",
+      company_name: "Right Networks",
+      icon: rn,
+      iconBg: "#383E56",
+      date: "September 2023 - Present",
+      points: [
+        "Installed, updated, and maintained over 2000 applications for clients.",
+        "Maintained and administered over 1500 SQL instances for client applications.",
+        "Created and maintained automation scripts to maximize team efficiency and reduce client downtime.",
+        "Acted as a liason between vendors and clients to implement applications and migrate data to our environment.",
+        "Vetted new applications for the cloud environment by putting them through a rigorous testing process.",
+        "Acted as tier 3 support to assist service technicians with complex end-user issues.",
+      ],
+    },
+    {
       title: "Cloud Service Technician Level 2",
       company_name: "Right Networks",
       icon: rn,
       iconBg: "#383E56",
-      date: "October 2022 - Present",
+      date: "October 2022 - September 2023",
       points: [
         "Resolved over 150 end-user tickets monthly via chats and calls with an average QA score of 95%.",
         "Utilized Active Directory, Group Policy, and Domain Controllers to support end-users’ local networks.",
@@ -115,7 +130,7 @@ import {
         "Performed basic network troubleshooting including printer configuration and performance tracking.",
         "Wrote and maintained PowerShell scripts to automate common troubleshooting procedures and solve end-user issues with a higher level of efficiency.",
         "Mentored new cloud service technicians on communication skills and optimal troubleshooting techniques.",
-        "Served as a resource for level 1 technicians to collaborate on challenging end-user issues.",
+        "Pioneered a new chat support system which doubled the efficiency of chat support technicians.",
       ],
     },
     {
@@ -148,7 +163,7 @@ import {
     {
       name: "Interior Design Blog",
       description:
-        "A blog site that I created for my wife to document her journey as an interior design student",
+        "A blog site that I created for my wife to document her journey as an interior design student.",
       tags: [
         {
           name: "react",
@@ -174,7 +189,7 @@ import {
     {
       name: "A* Pathfinding Algorithm",
       description:
-        "A visualization tool for the A* pathfinding algorithm",
+        "A visualization tool for the A* pathfinding algorithm.",
       tags: [
         {
           name: "python",
