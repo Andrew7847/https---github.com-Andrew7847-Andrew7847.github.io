@@ -104,22 +104,22 @@ import {
   const experiences = [
     {
       title: "Application Administrator",
-      company_name: "Right Networks",
+      company_name: "Rightworks",
       icon: rn,
       iconBg: "#383E56",
       date: "September 2023 - Present",
       points: [
-        "Installed, updated, and maintained over 2000 applications for clients.",
-        "Maintained and administered over 1500 SQL instances for client applications.",
-        "Created and maintained automation scripts to maximize team efficiency and reduce client downtime.",
-        "Acted as a liason between vendors and clients to implement applications and migrate data to our environment.",
+        "Installed, updated, and supported over 1000 unique applications, ensuring high availability for clients.",
+        "Maintained, and optimized over 1500 Microsoft SQL instances for client applications.",
+        "Developed innovative automation scripts with PowerShell to improve efficiency and consistency.",
+        "Acted as a liaison between vendors and clients to implement new applications and migrate data.",
         "Vetted new applications for the cloud environment by putting them through a rigorous testing process.",
         "Acted as tier 3 support to assist service technicians with complex end-user issues.",
       ],
     },
     {
       title: "Cloud Service Technician Level 2",
-      company_name: "Right Networks",
+      company_name: "Rightworks",
       icon: rn,
       iconBg: "#383E56",
       date: "October 2022 - September 2023",
@@ -128,7 +128,6 @@ import {
         "Utilized Active Directory, Group Policy, and Domain Controllers to support end-users’ local networks.",
         "Supported hundreds of various user accounting applications in a private cloud environment.",
         "Performed basic network troubleshooting including printer configuration and performance tracking.",
-        "Wrote and maintained PowerShell scripts to automate common troubleshooting procedures and solve end-user issues with a higher level of efficiency.",
         "Mentored new cloud service technicians on communication skills and optimal troubleshooting techniques.",
         "Pioneered a new chat support system which doubled the efficiency of chat support technicians.",
       ],
@@ -142,7 +141,7 @@ import {
       points: [
         "Maintained a GPA of 3.976 and made the Presidents List multiple times throughout my degree program",
         "Took courses focusing on proper version control techniques using Git and BitBucket",
-        "Created multiple rapid prototype games based on ",
+        "Created multiple rapid prototype games based on shareholder requirements.",
       ],
     },
     {
