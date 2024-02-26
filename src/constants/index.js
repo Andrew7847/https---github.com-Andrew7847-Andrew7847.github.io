@@ -49,7 +49,7 @@ import {
       icon: mobile,
     },
     {
-      title: "Cloud Technician",
+      title: "Application Administrator",
       icon: creator,
     },
   ];
